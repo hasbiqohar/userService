@@ -22,7 +22,7 @@
   "homepage": "https://github.com/hasbiqohar/userService#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "sequelize": "^5.21.5"
+    "sequelize": "^6.29.0"
   },
   "devDependencies": {
     "jest": "^25.2.3",
